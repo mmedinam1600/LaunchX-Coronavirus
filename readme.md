@@ -1,6 +1,4 @@
-markdown: kramdown
-
-# [Click To Live Project](https://mmedinam1600.github.io/coronavirus){:target="_blank"}
+# [Click To Live Project](https://mmedinam1600.github.io/coronavirus)
 
 ## Image Preview
 ![Preview](./preview.jpeg)
